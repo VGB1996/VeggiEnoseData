@@ -24,3 +24,15 @@ CB 36/38 (20:14) – Further decreasing Maillard reaction.
 CB 36/38 (20:22) – Even further decreasing Maillard reaction.
 
 Measurements were performed with 2 minutes of adsorption and 30 minutes of desorption, carrying out 4 consecutive temperature sweeps from 400 °C to 200 °C. In addition, 15 g of each measured jar were weighed.
+
+The data generated from these measurements correspond to resistive response values from gas sensors integrated into the VeggieNose device.
+
+The data are stored in Excel (.xlsx) files. The file structure includes:
+
+Main header: date and time of each measurement.
+
+Sensor variables: from SGP40_Res to ZMOD_REL_IAQ.
+
+Sample indices: TEMPINDX, used for subsequent data processing.
+
+Experimental variables: temperature (TEMP) and voltage (VOLT) applied to the sensors.
