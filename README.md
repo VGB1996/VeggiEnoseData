@@ -25,6 +25,14 @@ CB 36/38 (20:22) – Even further decreasing Maillard reaction.
 
 Measurements were performed with 2 minutes of adsorption and 30 minutes of desorption, carrying out 4 consecutive temperature sweeps from 400 °C to 200 °C. In addition, 15 g of each measured jar were weighed.
 
+Furthermore, measurements in Tomates Nartienete were performed the day 19/09/2025. The samples are presented above
+
+Crushed Toamato hot and cold
+Tomato juice hot and cold
+Intermediate Tomato product hot and cold
+
+Measurement conditions were the same as 28/08/2025.
+
 The data generated from these measurements correspond to resistive response values from gas sensors integrated into the VeggieNose device.
 
 The data are stored in Excel (.xlsx) files. The file structure includes:
